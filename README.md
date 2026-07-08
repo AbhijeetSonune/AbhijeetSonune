@@ -220,11 +220,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhijeetSonune&show_icons=true&theme=default&hide_border=true&title_color=2D5A3D&icon_color=2D5A3D&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetSonune&layout=compact&theme=default&hide_border=true&title_color=2D5A3D" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetSonune&theme=default&hide_border=true&ring=2D5A3D&fire=2D5A3D&currStreakLabel=2D5A3D" width="60%" />
 </p>
 
