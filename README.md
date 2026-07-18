@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 MCA Graduate from **Govt. College of Engineering, Aurangabad (GECA)** — CGPA 6.8
+- 🎓 MCA Graduate from **Govt. College of Engineering, Aurangabad (GECA)** — CGPA 6.95
 - 💼 Ex **Data Engineer Intern @ Bitwix Technology Pvt Ltd** (Dec 2025 – Apr 2026)
 - 📊 Delivered **3 Power BI dashboards**, automated **4 ETL pipelines**, processed **20,000+ records**
 - ⚡ Improved reporting efficiency by **50%** and query execution time by **40%**
