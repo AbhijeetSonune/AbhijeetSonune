@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Vijay Sonune</h1>
-<h3 align="center">Data Analyst | Data Engineer | MCA Graduate | Maharashtra, India</h3>
+<h3 align="center">Business Analyst | Data Analysts| MCA Graduate | Maharashtra, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D5A3D&center=true&vCenter=true&width=560&lines=Turning+raw+data+into+clear+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+ETL;20%2C000%2B+records+processed+in+production;Open+to+Data+Analyst+%2F+Engineer+roles" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 - 🤖 AI-assisted development: **ChatGPT, Claude AI, GitHub Copilot, Gemini**
 - 📍 Based in **Chhatrapati Sambhajinagar, Maharashtra**
 - 📬 **sonuneabhijeet19@gmail.com**
-- 🔍 Actively seeking **Data Analyst / Data Engineer** roles
+- 🔍 Actively seeking **Business Analyst / Data Analyst** roles
 
 ---
 
